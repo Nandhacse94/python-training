@@ -1,0 +1,20 @@
+
+#
+#
+# numpy
+# pandas
+# matplotlib
+# tableaue or power bi
+# openpyxl
+# sql
+#
+#
+# netmiko -> use ssh for network automation
+# NAPALM
+# BGP Network
+# Paramiko
+# sockets
+#
+#
+
+# trainer-contact: contactramkumar11@gmail.com
